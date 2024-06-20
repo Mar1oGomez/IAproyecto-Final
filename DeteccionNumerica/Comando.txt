@@ -1,0 +1,7 @@
+Convertirlo a tensorflow.js
+
+pip install tensorflowjs
+
+mkdir carpeta_salida
+
+tensorflowjs_converter --input_format keras numeros_conv_ad_do.keras carpeta_salida
